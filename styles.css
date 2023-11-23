@@ -2,11 +2,13 @@
     font-family: 'Playpen Sans', cursive;
     margin: 0px;
     padding: 0px;
+    
 }
+
 .container{
     width: 100%;
     height: 100vh;
-    background-color: #ffffffff;
+    background-color: #ffffff;
     position: relative;
 }
 .logo{
@@ -44,7 +46,6 @@
 
 
 .home{
-
 }
 .title{
     margin-left: 15%;
