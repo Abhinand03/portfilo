@@ -8,7 +8,11 @@
 .container{
     width: 100%;
     height: 100vh;
+<<<<<<< HEAD
     background-color: white;
+=======
+    background-color: yellow;
+>>>>>>> 2e6057d4f51c3eb5c9cf90f921f3571263042746
     position: relative;
 }
 .logo{
