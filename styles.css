@@ -8,11 +8,7 @@
 .container{
     width: 100%;
     height: 100vh;
-<<<<<<< HEAD
-    background-color: white;
-=======
-    background-color: yellow;
->>>>>>> 2e6057d4f51c3eb5c9cf90f921f3571263042746
+    background-color: #ffffff;
     position: relative;
 }
 .logo{
@@ -124,4 +120,101 @@
 }
 .abt-details{
 
+}
+.s_head{
+    font-size: 55px;
+    text-align: center;
+    position: relative;
+    top: 39px;
+}
+.box{
+    height: 191px;
+    width: 200px;
+    background-color:#ffdf2b;
+    position: relative;
+    left: 356px;
+    top: 168px;
+    border-radius: 40px;
+    margin-left: 50px;
+}
+
+.im_html{
+
+}
+.htl{
+    font-size: 90px;
+    position: relative;
+    left: 62px;
+    top: 14px;
+}
+.ht_head{
+    text-align: center;
+    position: relative;
+    top: 14px;
+}
+.box cs{
+left: 10px;
+}
+.skill_sec{
+    display: flex;
+}
+.skill_s{
+    position: relative;
+    top: 393px;
+    display: flex;
+    
+}
+.box1{
+    height: 191px;
+    width: 200px;
+    background-color:#399cff;
+    position: relative;
+    left: -256px;
+    top: 35px;
+    border-radius: 40px;
+    margin-left: 50px;
+}
+#skill{
+    width: 100%;
+    transition: 2s;
+
+}
+#contact{
+    position: relative;
+    top: 516px;
+    background-color: #3d3a3a;
+    color: white;
+    height: 250px;
+}
+.con-head{
+    text-align: center;
+    font-size: 40px;
+}
+.ht{
+    background-color: #e5532d;
+}
+.css{
+    background-color: #306af1;
+}
+.con-insta{
+
+
+}
+.con-info{
+    text-align: center;
+    position: relative;
+    top: 94px;
+
+}
+.ins{
+    text-decoration: none;
+    color: white;
+    margin-left: 175px ;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+.an{
+    background-color: #de0837;
 }
